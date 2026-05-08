@@ -2,8 +2,8 @@
   "cache_time": 7200,
   "api_site": {
     "ruyi": {
-      "api": "https://cj.lziapi.com/api.php/provide/vod",
-      "name": "量子资源站"
+      "api": "https://cj.rycjapi.com/api.php/provide/vod/",
+      "name": "如意资源站"
     },
     "wolong": {
       "api": "https://wolongzyw.com/api.php/provide/vod",
